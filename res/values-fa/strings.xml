@@ -24,8 +24,8 @@
     <string name="wallpapers">کاغذ دیواری‌ها تجسم موسیقی</string>
 
     <string name="author">گوگل</string>
-    <string name="vis2_desc">موج صدای موسیقی ترانهٔ در حال پخش را به تصویر می‌کشد.</string>
-    <string name="vis3_desc">فرکانس هر ترانهٔ در حال پخش را نمای می‌دهد.</string>
-    <string name="vis4_desc">یک صداسنج عقربه‌ای را شبیه‌سازی می‌کند.</string>
-    <string name="vis5_desc">همهٔ تجسم‌های موسیقی با هم به صورت سه بعدی.</string>
+    <string name="vis2_desc">به تصویر کشیدن موج صدای ترانهٔ در حال پخش</string>
+    <string name="vis3_desc">نمایش فرکانس ترانهٔ در حال پخش</string>
+    <string name="vis4_desc">شبیه‌سازی صداسنج عقربه‌ای</string>
+    <string name="vis5_desc">نمایش همهٔ تجسم‌های موسیقی با هم، به صورت سه بعدی</string>
 </resources>
